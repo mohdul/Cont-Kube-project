@@ -16,7 +16,7 @@ spec:
         image: mysql:5.7
         envFrom:
         - secretRef:
-            name: mysql-secret
+            name: db-secrets
         ports:
         - containerPort: 3306
           name: mysql
