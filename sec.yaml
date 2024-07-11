@@ -10,4 +10,4 @@ data:
   MYSQL_USER: bXl1c2VybmFtZQ== # myusername
   MYSQL_PASSWORD: bXlwYXNzd29yZA== # mypassword
   WORDPRESS_DB_USER: cm9vdA== # root
-  WORDPRESS_DB_PASSWORD: bXlyb290cGFzc3dvcmQ= # myrootpassword ^match
+  #WORDPRESS_DB_PASSWORD: bXlyb290cGFzc3dvcmQ= # myrootpassword ^match
