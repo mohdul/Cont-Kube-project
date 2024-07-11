@@ -2,6 +2,7 @@ apiVersion: v1
 kind: Secret
 metadata:
   name: db-secrets
+  namespace: hatoon-namespace
 type: Opaque
 data:
   MYSQL_ROOT_PASSWORD: bXlyb290cGFzc3dvcmQ= # myrootpassword
