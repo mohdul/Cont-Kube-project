@@ -9,4 +9,5 @@ data:
   MYSQL_DATABASE: bXlkYXRhYmFzZQ== # mydatabase
   MYSQL_USER: bXl1c2VybmFtZQ== # myusername
   MYSQL_PASSWORD: bXlwYXNzd29yZA== # mypassword
+  WORDPRESS_DB_USER: bXl1c2VybmFtZQ== # myusername
   WORDPRESS_DB_PASSWORD: bXlwYXNzd29yZA== # mypassword ^match
