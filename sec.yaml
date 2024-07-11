@@ -9,7 +9,7 @@ stringData:
   MYSQL_DATABASE: wordpress 
   WORDPRESS_DB_HOST: mysql
   WORDPRESS_DB_USER: root 
-  MYSQL_ALLOW_EMPTY_PASSWORD: true
+  MYSQL_ALLOW_EMPTY_PASSWORD: "true"
   # WORDPRESS_DB_PASSWORD
               # WORDPRESS_DB_USER: wordpress 
   # MYSQL_USER: wordpress
